@@ -9,4 +9,5 @@ dependencies = [
     "pandas>=3.0.3",
     "ruff>=0.17.6",
     "scikit-learn>=1.8.0",
+    "scikit-learn-intelex>=2026.2.0",
 ]
